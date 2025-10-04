@@ -102,8 +102,7 @@ python src/train_model.py
 
 - Try advanced models (Gradient Boosting, Neural Networks)  
 - Add classification task (e.g., High / Medium / Low price category)  
-- Build an interactive dashboard (Streamlit / Dash)  
-- Deploy as a web app  
+
 
 ---
 
