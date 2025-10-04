@@ -111,7 +111,6 @@ python src/train_model.py
 
 **Omayma Ali** — Data Analyst / Data Scientist  
 - [GitHub](https://github.com/Omayma-ali)
-- [Kaggle](https://www.kaggle.com/code/omaymaali/aviation-flight-fare-insights-prediction-model)
 - [LinkedIn](www.linkedin.com/in/omayma-ali)  
 - [Fiverr](https://www.fiverr.com/users/omaymaaa)
 - [Khamsat](https://khamsat.com/user/omayma_ali) 
