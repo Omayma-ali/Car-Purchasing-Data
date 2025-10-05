@@ -10,6 +10,11 @@ This project explores the dataset of used car sales (or car buying habits) to:
 - Understand major factors affecting car prices  
 - Build predictive models to estimate car sale price  
 - Visualize key relationships (e.g. mileage vs price, age vs price)  
+---
+## 🚀 Live Demo
+
+Try the live app here:  
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://car-purchasing-data-nsym72ly8uzsr6d79rmgqo.streamlit.app/)
 
 ---
 
